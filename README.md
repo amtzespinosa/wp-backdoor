@@ -7,6 +7,14 @@
  2. any conduct or content of any third party referenced by this resource, including without limitation, any defamatory, offensive or illegal conduct or other users or third parties
  3. any content obtained from this resource.
 
+## Files
+
+ - [backdoor.php](/backdoor.php) - code to set the backdoor.
+ - [hidden_admin.php](/hidden_admin.php) - code to hide users (the user created by backdoor.php).
+ - [wp-backdoor.zip](/wp-backdoor.zip) - the code made WordPress plugin.
+ - [wp-backdoor.php](/wp-backdoor/wp-backdoor.php) - code used for the plugin.
+ - [reverse_shell.php](/reverse_shell.php) - Pentest Monkey PHP Reverse Shell. Old but gold.
+
 ## Proof of Concept
 Many times I have asked myself how to maintain access to a compromised **WordPress** site for the sake of surveillance/data gathering/etc... Apart from reverse shells, of course, because I see some issues with the reverse shells stuff. I know they're all rectifiable but there are many things to have into consideration if in a rush:
 
@@ -98,7 +106,9 @@ In case you want to gain access, you should start here.
 
 If you already have access, just copy the three code blocks together into **functions.php.** Not on top, not at the bottom, right in the middle. I have tried to do it around line 150. With a quick look to the code it looks legit.
 
-Once it's pasted and saved, backdoor is ready to be used.
+Once it's pasted and saved, backdoor is ready to be used. 
+
+You can use a Reverse Shell to do this task 😉
 
 ### Gain access
 
@@ -114,3 +124,4 @@ I know this could be better. And it will. My future improvements would probably 
 Be careful who you let in your site. Update everything, revise the core code and delete  unuseful stuff you don't need.
 
 That's it. If you want to add more info, code or anything I'll be pleased. Happy hacking!
+
