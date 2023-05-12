@@ -1,5 +1,5 @@
 ![logo](/logo.png)
-![version](https://img.shields.io/badge/version-1.0.0-blue) ![version](https://img.shields.io/badge/tested-locally-green) ![version](https://img.shields.io/badge/language-PHP-purple)
+![version](https://img.shields.io/badge/version-1.0-blue) ![version](https://img.shields.io/badge/tested-locally-green) ![version](https://img.shields.io/badge/language-PHP-purple)
 ## Disclaimer
 **This is for educational purposes only.** I am not liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenue, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from 
 
