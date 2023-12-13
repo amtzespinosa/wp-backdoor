@@ -3,6 +3,8 @@
 
 ## Huge Update!
 
+![version](https://img.shields.io/badge/version-2.0-blue)
+
 **I have decided to take this repo a step further and make a step by step guide on how to implement it in a real case scenario with a phishing campaign based on a recently delivered phishig campaign to WordPress admins. [Here](https://amtzespinosa.github.io/posts/wordpress-backdoor-plugin/) you can check the full article!**
 
 ## Disclaimer
