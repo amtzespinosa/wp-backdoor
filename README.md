@@ -115,8 +115,6 @@ If you already have access, just copy the three code blocks together into **func
 
 Once it's pasted and saved, backdoor is ready to be used. 
 
-You can use a Reverse Shell to do this task 😉
-
 ### Gain access
 
 We can hide this malicious code into a WordPress plugin. This method can be used for persistance as well but have some inconvenients. The main one is that, once the plugin is deactivated, so does the hiding code and your backdoor would be visible.
